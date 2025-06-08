@@ -1,6 +1,6 @@
-# carapp
+# CarRentApp UI
 
-A new Flutter project.
+A new CarRentApp UI project.
 
 ## Getting Started
 
